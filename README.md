@@ -1,8 +1,5 @@
-# Woo it's a website or something
+# It's a Github Portfolio!
+
 David's Programming Portfolio
-Blank site right now, will try to populate with cool projects maybe someday.
+I'll try to make this a very basic website and talk a bit about my repos maybe.
 
-* Placeholder for a link to projects I'll never complete
-* link for code challenge solutions
-
-Currently has Kattis solutions on a very bare website!
